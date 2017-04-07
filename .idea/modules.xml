@@ -5,11 +5,13 @@
       <module fileurl="file://$PROJECT_DIR$/DLPort/DLPort.iml" filepath="$PROJECT_DIR$/DLPort/DLPort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Switch_library/Switch_library.iml" filepath="$PROJECT_DIR$/Switch_library/Switch_library.iml" />
       <module fileurl="file://$PROJECT_DIR$/TrainCar_Student/TrainCar_Student.iml" filepath="$PROJECT_DIR$/TrainCar_Student/TrainCar_Student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TrainCar_Teacher/TrainCar_Teacher.iml" filepath="$PROJECT_DIR$/TrainCar_Teacher/TrainCar_Teacher.iml" />
       <module fileurl="file://$PROJECT_DIR$/WorkProject.iml" filepath="$PROJECT_DIR$/WorkProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/caronwer/caronwer.iml" filepath="$PROJECT_DIR$/caronwer/caronwer.iml" />
       <module fileurl="file://$PROJECT_DIR$/goodsOwner/goodsOwner.iml" filepath="$PROJECT_DIR$/goodsOwner/goodsOwner.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib_tv_fullhtml/lib_tv_fullhtml.iml" filepath="$PROJECT_DIR$/lib_tv_fullhtml/lib_tv_fullhtml.iml" />
       <module fileurl="file://$PROJECT_DIR$/libzxing/libzxing.iml" filepath="$PROJECT_DIR$/libzxing/libzxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/travelguide/travelguide.iml" filepath="$PROJECT_DIR$/travelguide/travelguide.iml" />
     </modules>
   </component>
 </project>

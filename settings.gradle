@@ -1,1 +1,1 @@
-include ':caronwer', ':libzxing', ':DLPort', ':Switch_library', ':lib_tv_fullhtml', ':TrainCar_Student', ':goodsOwner'
+include ':caronwer', ':libzxing', ':DLPort', ':Switch_library', ':lib_tv_fullhtml', ':TrainCar_Student', ':goodsOwner', ':TrainCar_Teacher', ':travelguide'

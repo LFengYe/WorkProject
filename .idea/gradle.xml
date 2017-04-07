@@ -13,10 +13,12 @@
             <option value="$PROJECT_DIR$/DLPort" />
             <option value="$PROJECT_DIR$/Switch_library" />
             <option value="$PROJECT_DIR$/TrainCar_Student" />
+            <option value="$PROJECT_DIR$/TrainCar_Teacher" />
             <option value="$PROJECT_DIR$/caronwer" />
             <option value="$PROJECT_DIR$/goodsOwner" />
             <option value="$PROJECT_DIR$/lib_tv_fullhtml" />
             <option value="$PROJECT_DIR$/libzxing" />
+            <option value="$PROJECT_DIR$/travelguide" />
           </set>
         </option>
       </GradleProjectSettings>
